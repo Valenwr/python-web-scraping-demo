@@ -57,7 +57,7 @@ Before using this script, ensure you have the following installed:
 
 1. **Modify the genre variable**:
 
-   Open the `main.py` script and modify the `genre` variable to specify the genre of movies you want to scrape.
+   Open the `web-scraping-demo-imdb.py` script and modify the `genre` variable to specify the genre of movies you want to scrape.
 
 2. **Run the script**:
 
@@ -70,6 +70,9 @@ Before using this script, ensure you have the following installed:
 3. **Review the scraped data**:
 
    After the script finishes execution, the scraped movie data will be exported to a CSV file named `movies.csv`.
+
+33 Example Data
+For your convenience, an example CSV file (example_movies.csv) containing information about 453 movies is provided in the repository. You can use this file to see the expected format of the scraped data and to test your data analysis workflows.
 
 ## Disclaimer
 
