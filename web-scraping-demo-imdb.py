@@ -288,7 +288,7 @@ def initialize_driver(driver_path):
 
 def main():
     genre = 'Action'
-    driver_path = r"C:\Users\Valentina\Desktop\Proyectos\chromedriver-win64\chromedriver.exe"
+    driver_path = r"C:\Users\chromedriver.exe"
     csv_file_path = os.path.join(os.path.dirname(os.path.realpath(__file__)), 'movies.csv')
     max_movies = 5000
     total_movies_scraped = 0
