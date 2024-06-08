@@ -71,7 +71,6 @@ Before using this script, ensure you have the following installed:
 
    After the script finishes execution, the scraped movie data will be exported to a CSV file named `movies.csv`.
 
-**Example Data**
 For your convenience, an example CSV file (example_movies.csv) containing information about 453 movies is provided in the repository. You can use this file to see the expected format of the scraped data and to test your data analysis workflows.
 
 ## Disclaimer
